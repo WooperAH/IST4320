@@ -1,0 +1,8 @@
+to fix the branch thing use.
+git init
+git branch
+then you do the default stuff
+
+Supported the move for mac OS
+mv ~/Downloads/hello_world.py.html ~/github/IST4320/hello_world.py.html
+
